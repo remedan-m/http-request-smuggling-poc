@@ -2,8 +2,8 @@
 
 A lightweight, educational Python-based simulation of an HTTP Request Smuggling (CL.TE Desync) vulnerability. This project demonstrates how parsing discrepancies between a front-end proxy and a back-end server can lead to request desynchronization.
 
-
-https://github.com/user-attachments/assets/b9a0729b-0dc5-43f8-89e6-24a076233e0c
+## Demo
+<video src="https://github.com/user-attachments/assets/b9a0729b-0dc5-43f8-89e6-24a076233e0c" controls="controls" style="max-width: 100%;"></video>
 
 
 ## Disclaimer
